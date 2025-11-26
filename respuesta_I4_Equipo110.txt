@@ -2,3 +2,10 @@
  B- ¿Qué color de fondo tiene su página en el DESARROLLO ? Amarillo.
  C- ¿Qué color de fondo tiene su página en el MASTER? Azul.
  D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA? El de ALFA
+ E- ¿Algún integrante tuvo problemas al hacer el push? GAMMA
+ F- ¿Qué problemas surgieron? Hubo problemas al hacer el push porque la rama no estaba actualizada con los ultimos cambios que habia hecho BETA.
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+ adoptada? Se mezclaron los cambios y lo resolvi manualmente en el visual dejando solo mi <P> y hice el push
+H- ¿Qué sucede si cada uno utiliza el push-f? Sobrescribe el repositorio remoto borrando el trabajo de los compañeros
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+ en DESARROLLO ? Primero se debe entrar a la rama DESARROLLO y traer los ultimos cambios y asegurarse que index tenga el <p> de todos y guardar los cambios y hacer el push
